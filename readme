@@ -1,0 +1,10 @@
+PreEntrega 2 Flores curso de React
+===================================
+
+#Para instalar el proyecto necesitas hacer
+
+npm install
+
+#Para Ejecutar
+
+npm run dev

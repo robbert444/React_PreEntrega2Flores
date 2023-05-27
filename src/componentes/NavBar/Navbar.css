@@ -1,0 +1,29 @@
+
+.imgLogo{
+    width: 50px;
+}
+li {
+    margin: 0 2rem;
+}
+
+.navbar-brand{
+    font-family: 'Gentium Book Plus', serif;
+    font-weight: 700;
+    color: black;
+    font-size: 1.5rem;
+}
+.nav-link{
+    font-size: 1.1rem !important;
+    color: #293f5d !important;
+    font-weight: bold !important;
+    border-bottom: 2px solid transparent !important;
+}
+.nav-link:hover{
+    color: #33544d !important;
+    transition: width 2s linear 1s !important;
+    border-bottom: 2px solid #33544d !important;
+}
+.sinlinea {
+    text-decoration:none;
+    color: #36413c;
+}
